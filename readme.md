@@ -36,4 +36,4 @@ Some of my favorite games: Space Engineers, Forza Horizon 4, Fallout 4, The Elde
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hitomihiumi&theme=synthwave)
 ## I Love You 💜
 
-![:hitomihiumi](https://moe-counter.glitch.me/get/@hitomihiumi?theme=rule34)
+![](https://moe-counter.glitch.me/get/@hitomihiumi?theme=rule34)
