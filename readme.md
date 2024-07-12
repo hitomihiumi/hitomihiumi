@@ -17,7 +17,7 @@ Some of my favorite games: Space Engineers, Forza Horizon 4, Fallout 4, The Elde
 <br/>
 
 - 🎨 [***LazyCanvas***](https://github.com/hitomihiumi/lazy-canvas-ts) <br/>
-  A library for easier and clearer interaction with node-canvas.
+  A library for easier and clearer interaction with [@napi-rs/canvas](https://www.npmjs.com/package/@napi-rs/canvas).
 - 🎥 [***LazyAnimation***](https://github.com/hitomihiumi/lazy-animation) <br/>
   A small library for creating GIF files from a sequence of canvases created by LazyCanvas.
 - 🎴 [***Discord-Cards***](https://github.com/hitomihiumi/discord-cards) <br/>
@@ -38,7 +38,7 @@ Some of my favorite games: Space Engineers, Forza Horizon 4, Fallout 4, The Elde
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=hitomihiumi&show_icons=true&theme=synthwave&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=hitomihiumi&show_icons=true&theme=synthwave)
+![](https://github-readme-stats.vercel.app/api?username=hitomihiumi&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hitomihiumi&theme=synthwave)
 ## I Love You 💜
