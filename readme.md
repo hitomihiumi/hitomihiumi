@@ -36,7 +36,7 @@ Some of my favorite games: Space Engineers, Forza Horizon 4, Fallout 4, The Elde
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=hitomihiumi&show_icons=true&theme=synthwave&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=hitomihiumi&show_icons=true&theme=synthwave&layout=compact&exclude_repo=hitomihiumi.github.io)
 
 ![](https://github-readme-stats.vercel.app/api?username=hitomihiumi&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true)
 
