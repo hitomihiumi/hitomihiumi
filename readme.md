@@ -1,7 +1,6 @@
 
 <hr>
 <div>
-<img src="https://i.imgur.com/mn15re5.png" width="300" align="right">
 <img src="https://i.imgur.com/FEt6qQG.png" width="500">
 </div>
 <br>
