@@ -1,10 +1,9 @@
 
 <hr>
 <div>
-<img src="https://i.imgur.com/mn15re5.png" width="300" align="right">
-<img src="https://i.imgur.com/FEt6qQG.png" width="500">
+<img src="About%20Me.png" width="500">
 </div>
-<br>
+
 <ul>
   <li>Hi, I'm <b>HitomiHiumi</b>.</li>
   <li>️I am <b>19</b> years old.</li>
@@ -12,16 +11,16 @@
   <li><img src="https://i.imgur.com/Xjb867j.png" alt="." width="16" height="16"/> JavaScript, <img src="https://i.imgur.com/eZxBcrA.png" alt="." width="16" height="16"/> NodeJS, <img src="https://www.typescriptlang.org/favicon-32x32.png" alt="." width="16" height="16"/> TypeScript.</li>
 </ul>
 <br>
-<img src="https://i.imgur.com/bKOGQVG.png" width="500">
-<br><br>
+<img src="./Statistics.png" width="500">
+<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=hitomihiumi&show_icons=true&theme=swift&count_private=true&include_all_commits=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=hitomihiumi&show_icons=true&theme=swift&layout=compact)
 
 <br><br>
-<img src="https://i.imgur.com/c18Ccay.png" width="500">
-<br><br>
+<img src="./Contact.png" width="500">
+<br>
 
 <ul>
   <li><strong><a href="https://hitomihiumi.xyz/">Website</a></strong>.</li>

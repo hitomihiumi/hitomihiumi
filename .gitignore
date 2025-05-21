@@ -1,5 +1,6 @@
 .idea
-about.png
-github.psd
-repository.png
 gitignore
+node_modules
+assets/fonts
+
+package-lock.json

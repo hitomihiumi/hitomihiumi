@@ -1,0 +1,23 @@
+{
+  "name": "hitomihiumi",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "img-gen": "node scripts/img-gen.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hitomihiumi/hitomihiumi.git"
+  },
+  "author": "hitomihiumi",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/hitomihiumi/hitomihiumi/issues"
+  },
+  "homepage": "https://github.com/hitomihiumi/hitomihiumi#readme",
+  "dependencies": {
+    "@nmmty/lazycanvas": "^0.5.1"
+  }
+}
