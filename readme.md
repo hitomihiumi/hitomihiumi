@@ -12,7 +12,6 @@
 </ul>
 <br>
 <img src="./Statistics.png" width="500">
-<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=hitomihiumi&show_icons=true&theme=swift&count_private=true&include_all_commits=true)
 
@@ -20,7 +19,6 @@
 
 <br><br>
 <img src="./Contact.png" width="500">
-<br>
 
 <ul>
   <li><strong><a href="https://hitomihiumi.xyz/">Website</a></strong>.</li>
