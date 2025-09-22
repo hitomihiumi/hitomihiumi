@@ -31,7 +31,7 @@
 </div>
 <div>
     <a href="https://gitroll.io/profile/uuDL9TP6YIcQTEsSP9mJ0dKVUIqX2" target="_blank">
-        <img style="width: 36%" src="https://gitroll.io/api/badges/profiles/v1/uuDL9TP6YIcQTEsSP9mJ0dKVUIqX2?theme=kawaiiCat" alt="GitRoll Profile Badge"/>
+        <img style="width: 40%" src="https://gitroll.io/api/badges/profiles/v1/uuDL9TP6YIcQTEsSP9mJ0dKVUIqX2?theme=kawaiiCat" alt="GitRoll Profile Badge"/>
     </a>
 </div>
 <br><br>
