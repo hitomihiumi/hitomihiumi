@@ -24,7 +24,16 @@
   <li><strong><a href="https://hitomihiumi.xyz/">Website</a></strong>.</li>
 </ul>
 
-[![Discord](https://lanyard.cnrad.dev/api/991777093312585808?idleMessage=%22I%20love%20you!%22&showDisplayName=true&theme=dark&bg=282A36&borderRadius=15px&animated=true)](https://discord.com/users/991777093312585808)
+<div>
+    <a href="https://discord.com/users/991777093312585808" target="_blank">
+        <img src="https://lanyard.cnrad.dev/api/991777093312585808?idleMessage=%22I%20love%20you!%22&showDisplayName=true&theme=dark&bg=282A36&borderRadius=15px&animated=true">
+    </a>
+</div>
+<div>
+    <a href="https://gitroll.io/profile/uuDL9TP6YIcQTEsSP9mJ0dKVUIqX2" target="_blank">
+        <img style="width: 36%" src="https://gitroll.io/api/badges/profiles/v1/uuDL9TP6YIcQTEsSP9mJ0dKVUIqX2?theme=kawaiiCat" alt="GitRoll Profile Badge"/>
+    </a>
+</div>
 <br><br>
 <hr>
 
