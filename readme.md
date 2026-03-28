@@ -9,7 +9,6 @@
     </a>
 </div>
 <br><br>
-<hr>
 
 ## I Love You 💜
 
